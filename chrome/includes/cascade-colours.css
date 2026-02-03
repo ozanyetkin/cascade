@@ -16,8 +16,8 @@
     --uc-identity-colour-purple: #786fa6;
 
     /*  Cascades main Colour Scheme */
-    --uc-base-colour: #1e2021;
-    --uc-highlight-colour: #191b1c;
+    --uc-base-colour: #000000;
+    --uc-highlight-colour: #000000;
     --uc-inverted-colour: #fafafc;
     --uc-muted-colour: #aaaaac;
     --uc-accent-colour: var(--uc-identity-colour-purple);
@@ -40,8 +40,8 @@
     /*  Cascades main Colour Scheme */
     --uc-base-colour: #fafafc;
     --uc-highlight-colour: #dadadc;
-    --uc-inverted-colour: #1e2021;
-    --uc-muted-colour: #191b1c;
+    --uc-inverted-colour: #000000;
+    --uc-muted-colour: #000000;
     --uc-accent-colour: var(--uc-identity-colour-purple);
   }
 }

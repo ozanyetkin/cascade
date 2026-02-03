@@ -179,3 +179,8 @@ this removes the ability to toggle the "expand sidebar on hover" option that is 
   display: none !important;
 }
 */
+
+/* tab label */
+#TabsToolbar .tabbrowser-tab:is([selected],[multiselected]) label {
+font-weight: bold   !important;
+}
